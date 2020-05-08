@@ -1,0 +1,4 @@
+usernames = ojo, samuel
+passwords = ilesanmi, oluwaranti
+email =ojoilesanmi89@gmail.com, smartsammie@gmail.com
+full name = ojo ilesanmi, gabriel oluwaranti
